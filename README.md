@@ -19,4 +19,15 @@ The project follows the **datawarehouse Architecture** approach with two logical
 
 <img width="1039" height="696" alt="image" src="https://github.com/user-attachments/assets/05897bb2-d8b6-4903-b7cf-432e593465f3" />
 
+### Staging Layer
+Applies cleansing, standardization, validation, and transformation to improve data quality and prepare the data for downstream use.
+### Business Layer
+Delivers business-ready data modeled as a star schema to support reporting, analytics, and performance-focused SQL queries.
 
+## Project Goals :
+- Build a centralized data management dashboard to enable tracking critical data elements, buinsess glossaries and data quality rules
+
+## Project Tools :
+- MS Power BI
+- Denodo
+- SQL
